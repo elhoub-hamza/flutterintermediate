@@ -1,16 +1,57 @@
-# flutterintermediate
+# Flutter - Intermediate
 
-A new Flutter project.
+## Part 1 : Widgets
 
-## Getting Started
+### Tooltips
 
-This project is a starting point for a Flutter application.
+### Chips, Key and children
 
-A few resources to get you started if this is your first Flutter project:
+### Sliders and indicators
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### PopupMenuButton
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Part 2 : Layout Widget
+
+### ExpansionPanelList
+
+### TabBarView
+
+### Stepper
+
+### Gridview
+
+## Part 3 : Charts
+
+### Chart Introduction
+
+### Grouping data
+
+### Animated Pie Charts
+
+## Part 4 : Custom Widgets
+
+### Creating a Custom Widgets
+
+### Stateful Widgets
+
+### Widget within a widget
+
+### Child to parent
+
+## Part 5 : Navigation
+
+### PushNamed
+
+### PushNamedUntilAndRemove
+
+### Push and Pop
+
+### Navigating from a child widget
+
+## Part 6 : State Management
+
+### Global State
+
+### Passing variables
+
+### Redux
